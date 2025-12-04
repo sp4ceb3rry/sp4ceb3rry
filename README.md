@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sp4ceb3rry/sp4ceb3rry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- BANNIÈRE -->
+  <img src="https://github.com/user-attachments/assets/06cbcff8-b17a-461a-a6c7-5f7fd7390e8c" alt="banner" />
 
-Here are some ideas to get you started:
+  <br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- LIEN DISCORD (centré) -->
+  <a href="https://discord.gg/xmYfaEGetM">https://discord.gg/xmYfaEGetM</a>
+
+  <br/><br/>
+
+  <!-- COMPTEUR DE VUES (gems) -->
+  <img src="https://komarev.com/ghpvc/?username=m4lachite&label=dinosaurs&color=FF9B8C" alt="dinosaurs" />
+
+</div>
