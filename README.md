@@ -9,7 +9,8 @@
   <!-- LIEN DISCORD (centré) -->
   
   PLEASE READ !! i canceled this server / left it for mental health reasons. joining will be useless since i decided to remove the emojis, sorry everyone :(
-  if you want to support me, please follow my tiktok instead <3 ( @sp4ceb3rry )</a>
+  if you want to support me, please follow my tiktok instead <3 ( @sp4ceb3rry )
+  if u wanna talk to me, my discord user changed ! it's @sh3llydino now ^_^</a>
 
   <br/><br/>
 
