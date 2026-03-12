@@ -7,7 +7,9 @@
   <br/><br/>
 
   <!-- LIEN DISCORD (centré) -->
-  <a href="https://discord.gg/xmYfaEGetM">https://discord.gg/xmYfaEGetM</a>
+  
+  PLEASE READ !! i canceled this server / left it for mental health reasons. joining will be useless since i decided to remove the emojis, sorry everyone :(
+  if you want to support me, please follow my tiktok instead <3 ( @sp4ceb3rry )</a>
 
   <br/><br/>
 
